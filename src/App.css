@@ -13,6 +13,17 @@
   box-sizing: border-box;
 }
 
+/* smooth in-page navigation for the nav/CTA anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* keep anchored sections from landing flush against the top edge */
+section[id],
+header[id] {
+  scroll-margin-top: 24px;
+}
+
 body {
   margin: 0;
   background: var(--bg);

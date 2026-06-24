@@ -20,7 +20,7 @@ export const profile = {
   links: {
     github: "https://github.com/fatimazahra-308",
     linkedin: "https://linkedin.com/in/fatima-daoudi",
-    portfolio: "https://fatima-daoudi.vercel.app",
+    portfolio: "", // old fatima-daoudi.vercel.app is down (404) — removed broken link
     resume: "/resume.pdf", // drop your CV PDF into public/resume.pdf
   },
 };
