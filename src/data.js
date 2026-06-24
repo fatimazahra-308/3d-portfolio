@@ -81,7 +81,7 @@ export const projects = [
       "Replies \"I don't know\" instead of hallucinating",
     ],
     tech: ["React", "Python", "FastAPI", "Claude", "sentence-transformers", "Vector search", "REST"],
-    repo: "https://github.com/fatimazahra-308", // TODO: exact repo URL
+    repo: "https://github.com/fatimazahra-308/doc-qa-assistant",
     demo: "",
   },
   {
@@ -95,7 +95,7 @@ export const projects = [
       "React frontend over a FastAPI API",
     ],
     tech: ["React", "Python", "FastAPI", "Claude", "Vector search", "REST"],
-    repo: "https://github.com/fatimazahra-308", // TODO: exact repo URL
+    repo: "https://github.com/fatimazahra-308/code-assistant",
     demo: "",
   },
   {
@@ -109,7 +109,7 @@ export const projects = [
       "React SPA consuming the JSON API with full CRUD",
     ],
     tech: ["Java", "Spring Boot", "JPA / H2", "React", "REST"],
-    repo: "https://github.com/fatimazahra-308", // TODO: exact repo URL
+    repo: "https://github.com/fatimazahra-308/task-manager",
     demo: "",
   },
 ];
