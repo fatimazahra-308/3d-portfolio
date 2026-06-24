@@ -1,0 +1,13 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Vercel
+.vercel/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
