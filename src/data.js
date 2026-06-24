@@ -43,34 +43,6 @@ export const skills = [
 
 export const projects = [
   {
-    name: "ShopEase — React E-Commerce Storefront",
-    year: "2025",
-    blurb:
-      "An accessible, responsive e-commerce storefront with reusable components and global cart state.",
-    highlights: [
-      "Reusable, accessible components (keyboard-navigable, ARIA-labeled); 95+ Lighthouse on mobile",
-      "Global cart state with React hooks & Context API",
-      "Instant client-side search across 20+ products",
-    ],
-    tech: ["React", "JavaScript", "React Router", "Context API", "Tailwind CSS", "REST API"],
-    repo: "https://github.com/fatimazahra-308", // TODO: exact repo URL
-    demo: "", // TODO: live demo URL
-  },
-  {
-    name: "SkyCast — React Weather Dashboard",
-    year: "2025",
-    blurb:
-      "A data-heavy weather dashboard integrating a third-party REST API with careful UX states.",
-    highlights: [
-      "Third-party REST API with debounced search — cut redundant calls by ~70%",
-      "Graceful loading, empty, and error states",
-      "Fully responsive layout",
-    ],
-    tech: ["React", "JavaScript", "Fetch API", "CSS", "Responsive Design"],
-    repo: "https://github.com/fatimazahra-308", // TODO: exact repo URL
-    demo: "", // TODO: live demo URL
-  },
-  {
     name: "Doc Q&A Assistant — RAG with Source Citations",
     year: "2026",
     blurb:
