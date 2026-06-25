@@ -19,7 +19,7 @@ export const profile = {
   phone: "+212 761 788 400",
   links: {
     github: "https://github.com/fatimazahra-308",
-    linkedin: "https://linkedin.com/in/fatima-daoudi",
+    linkedin: "https://www.linkedin.com/in/fatima-daoudi-756ab634b/",
     portfolio: "", // old fatima-daoudi.vercel.app is down (404) — removed broken link
     resume: "/resume.pdf", // drop your CV PDF into public/resume.pdf
   },
